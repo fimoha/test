@@ -31,7 +31,6 @@ line-height: 90px;
 #header h2 {
 background: #C55938;
 padding: 10px;
-
 color: white;
 font-size: 2em;
 }
@@ -62,7 +61,7 @@ color: #ffffbb;
 text-decoration: none;
 }
 
-#content { background: #fff; padding: 10px 20px;}
+#content { background: #fff; padding: 10px 20px; font-size: 1em;}
 #content h2 { padding-top: 10px; font-weight: bold; font-size: 1.25em; color: #383838; }
 #content h3 { font-weight: normal; font-size: 1em; background: #8B664E; padding: 6px; color: white; }
 
