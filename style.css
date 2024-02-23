@@ -36,6 +36,7 @@ font-size: 2em;
 line-height: 70px;
 background: #C55938;
 color: #fff;
+padding: 6px
 }
 
 #menu {
@@ -84,5 +85,5 @@ text-align: center;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 33%;
+  width: 50%;
 }
