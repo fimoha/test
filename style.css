@@ -18,14 +18,14 @@ max-width: 800px;
 }
 
 #header {
-height: 170px;
+
 }
 #header h1 {
 padding: 35px 0 0 0;
 margin: 0;
 font-weight: bold;
 color: #3e3e3e;
-font-size: 2em;
+font-size: 2.2em;
 line-height: 50px;
 text-align: center;
 }
@@ -33,7 +33,7 @@ text-align: center;
 margin: 0;
 font-weight: bold;
 color: #3e3e3e;
-font-size: 12pt;
+font-size: 16pt;
 
 background: #bd725b;
 color: #fff;
