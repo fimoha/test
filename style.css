@@ -17,7 +17,7 @@ font-family: Times New Roman;
 a { color: #000088; }
 @media (prefers-color-scheme: dark) {
   a {
-    color: #4f85ff;
+    color: #97b1ff;
   }
 }
 a:hover { color: #880000; }
