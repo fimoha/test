@@ -18,7 +18,7 @@ max-width: 800px;
 }
 
 #header {
-height: 200px;
+height: 160px;
 }
 #header h1 {
 padding: 35px 0 0 0;
@@ -26,7 +26,7 @@ margin: 0;
 font-weight: bold;
 color: #3e3e3e;
 font-size: 2.5em;
-line-height: 90px;
+line-height: 70px;
 text-align: center;
 }
 #header h2 {
@@ -34,10 +34,10 @@ margin: 0;
 font-weight: bold;
 color: #3e3e3e;
 font-size: 1.7em;
-line-height: 50px;
+
 background: #bd725b;
 color: #fff;
-padding: 6px;
+padding: 10px;
 text-align: center;
 }
 
