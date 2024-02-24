@@ -10,7 +10,7 @@ font-family: Times New Roman;
 @media (prefers-color-scheme: dark) {
   body {
     background-color: black;
-    color: white;
+    color: #ebebeb;
   }
 }
 
@@ -100,7 +100,7 @@ text-decoration: none;
 @media (prefers-color-scheme: dark) {
   #content {
     background-color: black;
-    color: white;
+    color: #ebebeb;
   }
 }
 
@@ -108,7 +108,7 @@ text-decoration: none;
 @media (prefers-color-scheme: dark) {
   #content h2 {
     background-color: black;
-    color: white;
+    color: #ebebeb;
   }
 }
 
