@@ -7,9 +7,25 @@ line-height: 190%;
 font-size: 11pt;
 font-family: Times New Roman;
 }
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: black;
+    color: white;
+  }
+}
 
 a { color: #000088; }
+@media (prefers-color-scheme: dark) {
+  a {
+    color: #4f85ff;
+  }
+}
 a:hover { color: #880000; }
+@media (prefers-color-scheme: dark) {
+  a:hover {
+    color: #ff4f4f;
+  }
+}
 
 #wrap { 
 margin: 0 auto;
@@ -29,6 +45,13 @@ font-size: 2.2em;
 line-height: 50px;
 text-align: center;
 }
+@media (prefers-color-scheme: dark) {
+  #header h1 {
+    background-color: black;
+    color: white;
+  }
+}
+
 #header h2 {
 margin: 0;
 font-weight: bold;
@@ -39,6 +62,13 @@ color: #fff;
 padding: 10px;
 text-align: center;
 }
+@media (prefers-color-scheme: dark) {
+  #header h2 {
+    background-color: #5f6b55;
+    color: white;
+  }
+}
+
 
 #menu {
 background: #880000;
@@ -67,8 +97,29 @@ text-decoration: none;
 }
 
 #content { background: #fff; padding: 10px 20px; font-size: 1.2em;}
+@media (prefers-color-scheme: dark) {
+  #content {
+    background-color: black;
+    color: white;
+  }
+}
+
 #content h2 { padding-top: 10px; font-weight: bold; font-size: 1.2em; color: #383838; }
+@media (prefers-color-scheme: dark) {
+  #content h2 {
+    background-color: black;
+    color: white;
+  }
+}
+
 #content h3 { font-weight: normal; font-size: 12pt; background: #869c8a; padding: 4px; color: white;  }
+@media (prefers-color-scheme: dark) {
+  #content h3 {
+    background-color: #5f6b55;
+    color: white;
+  }
+}
+
 
 #footer { 
 background: #353535;
@@ -87,4 +138,6 @@ text-align: center;
   margin-left: auto;
   margin-right: auto;
   width: 40%;
+}
+
 }
